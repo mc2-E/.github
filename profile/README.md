@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# MC²= E Lab – Materials under Challenging Conditions for Energy Applications
+# Welcome to the MC²= E Lab – Materials under Challenging Conditions for Energy Applications
 
 This repository hosts the website for the **MC²= E Lab**, a research group in the Department of Nuclear Engineering at Texas A&M University.
 
