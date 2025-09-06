@@ -14,5 +14,3 @@ Our work spans:
 - Advanced nuclear fuels, claddings, and structural materials for advanced reactors
 - Materials for Fusion Energy
 - Battery Materials    
-
--->
