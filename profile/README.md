@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 # MC²= E Lab – Materials under Challenging Conditions for Energy Applications
 
